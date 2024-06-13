@@ -19,15 +19,18 @@
 body{
     background-color: var(--very-dark-blue);
     height: 100svh;
-    
+
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .card{
     background-color: var(--black-gradient);
+    justify-content: center;
     max-width: 412px;
+
     padding: 32px;
+
     border-radius: 30px;
 }
 
